@@ -1,0 +1,11 @@
+
+
+{
+  "name": "Мой первый NFT #1",
+  "description": "Тестовый NFT для лабораторной работы по TON",
+  "image": "https://ibb.co/q3x03NXH",
+  "attributes": [
+    {"trait_type": "Редкость", "value": "Обычный"},
+    {"trait_type": "Цвет", "value": "Синий"}
+  ]
+}
